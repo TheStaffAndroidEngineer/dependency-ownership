@@ -1,0 +1,206 @@
+Calculating task graph as no cached configuration is available for tasks: :app:assembleDebug :hilt-app:assembleDebug :broken:assembleDebug
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :legacy-bridge:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:generateDebugAssets UP-TO-DATE
+> Task :cart-api:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:preBuild UP-TO-DATE
+> Task :cart-impl:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:preBuild UP-TO-DATE
+> Task :session-impl:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :session-api:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:preDebugBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :legacy-bridge:processResources NO-SOURCE
+> Task :session-impl:processResources NO-SOURCE
+> Task :cart-api:processResources NO-SOURCE
+> Task :session-api:processResources NO-SOURCE
+> Task :cart-impl:processResources NO-SOURCE
+> Task :app:mapDebugSourceSetPaths
+> Task :app:desugarDebugFileDependencies
+> Task :feature-ui:generateDebugResources
+> Task :feature-ui:processDebugNavigationResources
+> Task :app:generateDebugResources
+> Task :feature-ui:writeDebugAarMetadata
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :feature-ui:javaPreCompileDebug
+> Task :feature-ui:extractDeepLinksDebug
+> Task :feature-ui:mapDebugSourceSetPaths
+> Task :feature-ui:packageDebugResources
+> Task :app:packageDebugResources
+> Task :feature-ui:processDebugManifest
+> Task :app:javaPreCompileDebug
+> Task :feature-ui:mergeDebugJniLibFolders
+> Task :app:mergeDebugJniLibFolders
+> Task :feature-ui:mergeDebugAssets
+> Task :feature-ui:mergeDebugNativeLibs NO-SOURCE
+> Task :feature-ui:copyDebugJniLibsProjectOnly
+> Task :app:writeDebugAppMetadata
+> Task :app:validateSigningDebug
+> Task :hilt-app:preBuild UP-TO-DATE
+> Task :hilt-app:preDebugBuild UP-TO-DATE
+> Task :hilt-app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:writeDebugSigningConfigVersions
+> Task :hilt-app:generateDebugResources FROM-CACHE
+> Task :hilt-app:packageDebugResources
+> Task :app:checkDebugDuplicateClasses
+> Task :app:processDebugNavigationResources
+> Task :app:checkDebugAarMetadata
+> Task :app:compileDebugNavigationResources
+> Task :hilt-app:generateDebugAssets UP-TO-DATE
+> Task :feature-ui:parseDebugLocalResources
+> Task :feature-ui:generateDebugRFile
+> Task :hilt-app:processDebugNavigationResources
+> Task :feature-ui:compileDebugLibraryResources
+> Task :hilt-app:mergeDebugAssets
+> Task :hilt-app:compressDebugAssets
+> Task :hilt-app:desugarDebugFileDependencies FROM-CACHE
+> Task :hilt-app:checkDebugAarMetadata
+> Task :hilt-app:mapDebugSourceSetPaths
+> Task :hilt-app:compileDebugNavigationResources FROM-CACHE
+> Task :hilt-app:generateDebugGlobalSynthetics
+> Task :app:generateDebugGlobalSynthetics
+> Task :hilt-app:createDebugCompatibleScreenManifests
+> Task :hilt-app:extractDeepLinksDebug
+> Task :cart-api:compileKotlin
+> Task :cart-api:compileJava NO-SOURCE
+> Task :hilt-app:mergeDebugResources
+> Task :cart-impl:compileKotlin
+> Task :cart-impl:compileJava NO-SOURCE
+> Task :cart-api:classes UP-TO-DATE
+> Task :cart-api:jar
+> Task :cart-impl:classes UP-TO-DATE
+> Task :cart-impl:jar
+> Task :session-api:compileKotlin
+> Task :session-api:compileJava NO-SOURCE
+> Task :session-impl:compileKotlin
+> Task :session-impl:compileJava NO-SOURCE
+> Task :session-impl:classes UP-TO-DATE
+> Task :session-impl:jar
+> Task :session-api:classes UP-TO-DATE
+> Task :session-api:jar
+> Task :hilt-app:validateSigningDebug
+> Task :hilt-app:writeDebugAppMetadata
+> Task :hilt-app:writeDebugSigningConfigVersions
+> Task :broken:preBuild UP-TO-DATE
+> Task :broken:preDebugBuild UP-TO-DATE
+> Task :broken:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :broken:generateDebugResources FROM-CACHE
+> Task :broken:packageDebugResources
+> Task :broken:processDebugNavigationResources
+> Task :app:parseDebugLocalResources
+> Task :app:generateDebugRFile
+> Task :broken:javaPreCompileDebug FROM-CACHE
+> Task :broken:generateDebugAssets UP-TO-DATE
+> Task :legacy-bridge:compileKotlin
+> Task :legacy-bridge:compileJava NO-SOURCE
+> Task :legacy-bridge:classes UP-TO-DATE
+> Task :legacy-bridge:jar
+> Task :app:processDebugMainManifest
+> Task :hilt-app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :broken:mergeDebugAssets
+> Task :hilt-app:processDebugManifest
+> Task :hilt-app:checkDebugDuplicateClasses
+> Task :hilt-app:javaPreCompileDebug
+> Task :broken:compressDebugAssets FROM-CACHE
+> Task :broken:generateDebugGlobalSynthetics FROM-CACHE
+> Task :app:processDebugManifestForPackage
+> Task :broken:desugarDebugFileDependencies FROM-CACHE
+> Task :broken:checkDebugAarMetadata
+> Task :broken:mapDebugSourceSetPaths
+> Task :broken:compileDebugNavigationResources FROM-CACHE
+> Task :app:mergeDebugResources
+> Task :broken:checkDebugDuplicateClasses
+> Task :hilt-app:parseDebugLocalResources
+> Task :broken:parseDebugLocalResources
+> Task :hilt-app:generateDebugRFile
+> Task :broken:createDebugCompatibleScreenManifests
+> Task :broken:extractDeepLinksDebug
+> Task :broken:processDebugMainManifest
+> Task :broken:processDebugManifest
+> Task :hilt-app:mergeDebugJniLibFolders
+> Task :hilt-app:processDebugManifestForPackage
+> Task :app:mergeDebugNativeLibs
+> Task :app:processDebugResources
+> Task :app:mergeDebugAssets
+> Task :app:compressDebugAssets FROM-CACHE
+> Task :broken:validateSigningDebug
+> Task :broken:writeDebugAppMetadata
+> Task :broken:writeDebugSigningConfigVersions
+> Task :broken:processDebugManifestForPackage
+> Task :hilt-app:mergeDebugNativeLibs
+> Task :hilt-app:processDebugResources
+> Task :broken:mergeDebugResources
+> Task :broken:generateDebugRFile
+> Task :broken:mergeDebugJniLibFolders
+
+> Task :hilt-app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :broken:mergeDebugNativeLibs
+
+> Task :broken:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :broken:processDebugResources
+> Task :feature-ui:compileDebugKotlin
+> Task :feature-ui:processDebugJavaRes
+> Task :feature-ui:compileDebugJavaWithJavac
+> Task :feature-ui:bundleLibRuntimeToDirDebug
+> Task :feature-ui:bundleLibRuntimeToJarDebug
+> Task :feature-ui:bundleLibCompileToJarDebug
+> Task :broken:mergeLibDexDebug
+> Task :app:mergeLibDexDebug
+> Task :hilt-app:mergeLibDexDebug
+> Task :broken:compileDebugKotlin
+> Task :broken:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:compileDebugKotlin
+> Task :broken:processDebugJavaRes
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:processDebugJavaRes
+> Task :app:dexBuilderDebug
+> Task :broken:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :broken:mergeProjectDexDebug
+> Task :broken:mergeDebugJavaResource
+> Task :app:mergeDebugJavaResource
+> Task :broken:mergeExtDexDebug
+> Task :app:mergeExtDexDebug
+> Task :hilt-app:mergeExtDexDebug
+> Task :broken:packageDebug
+> Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :broken:assembleDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :broken:createDebugApkListingFileRedirect
+> Task :hilt-app:kspDebugKotlin
+> Task :hilt-app:compileDebugKotlin
+> Task :hilt-app:processDebugJavaRes
+> Task :hilt-app:mergeDebugJavaResource
+> Task :hilt-app:compileDebugJavaWithJavac
+> Task :hilt-app:hiltCollectClassesDebug
+> Task :hilt-app:hiltAggregateDepsDebug
+> Task :hilt-app:hiltJavaCompileDebug
+> Task :hilt-app:transformDebugClassesWithAsm
+> Task :hilt-app:dexBuilderDebug
+> Task :hilt-app:mergeProjectDexDebug
+> Task :hilt-app:packageDebug
+> Task :hilt-app:assembleDebug
+> Task :hilt-app:createDebugApkListingFileRedirect
+
+[Incubating] Problems report is available at: file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/dependency-ownership/build/reports/problems/problems-report.html
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.8.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD SUCCESSFUL in 55s
+143 actionable tasks: 133 executed, 10 from cache
+Configuration cache entry stored.

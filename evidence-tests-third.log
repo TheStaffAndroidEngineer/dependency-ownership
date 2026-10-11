@@ -1,0 +1,250 @@
+Calculating task graph as no cached configuration is available for tasks: :hilt-app:connectedDebugAndroidTest :hilt-app:lintDebug :lease-lab:exerciseTest
+> Task :feature-ui:generateDebugAssets UP-TO-DATE
+> Task :session-impl:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :hilt-app:preBuild UP-TO-DATE
+> Task :cart-impl:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:preBuild UP-TO-DATE
+> Task :session-api:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :cart-api:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :legacy-bridge:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:preDebugBuild UP-TO-DATE
+> Task :hilt-app:generateDebugAssets UP-TO-DATE
+> Task :legacy-bridge:processResources NO-SOURCE
+> Task :hilt-app:preDebugBuild UP-TO-DATE
+> Task :cart-api:processResources NO-SOURCE
+> Task :session-impl:processResources NO-SOURCE
+> Task :cart-impl:processResources NO-SOURCE
+> Task :session-api:processResources NO-SOURCE
+> Task :feature-ui:generateDebugResources UP-TO-DATE
+> Task :feature-ui:mapDebugSourceSetPaths UP-TO-DATE
+> Task :feature-ui:processDebugNavigationResources UP-TO-DATE
+> Task :feature-ui:javaPreCompileDebug UP-TO-DATE
+> Task :feature-ui:mergeDebugAssets UP-TO-DATE
+> Task :feature-ui:writeDebugAarMetadata UP-TO-DATE
+> Task :hilt-app:desugarDebugFileDependencies UP-TO-DATE
+> Task :hilt-app:generateDebugGlobalSynthetics UP-TO-DATE
+> Task :hilt-app:generateDebugResources UP-TO-DATE
+> Task :hilt-app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :feature-ui:packageDebugResources UP-TO-DATE
+> Task :hilt-app:javaPreCompileDebug UP-TO-DATE
+> Task :feature-ui:extractDeepLinksDebug UP-TO-DATE
+> Task :hilt-app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :feature-ui:compileDebugLibraryResources UP-TO-DATE
+> Task :feature-ui:parseDebugLocalResources UP-TO-DATE
+> Task :hilt-app:packageDebugResources UP-TO-DATE
+> Task :hilt-app:extractDeepLinksDebug UP-TO-DATE
+> Task :feature-ui:processDebugManifest UP-TO-DATE
+> Task :hilt-app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :feature-ui:mergeDebugJniLibFolders UP-TO-DATE
+> Task :hilt-app:writeDebugAppMetadata UP-TO-DATE
+> Task :cart-api:compileKotlin UP-TO-DATE
+> Task :hilt-app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :hilt-app:validateSigningDebug UP-TO-DATE
+> Task :feature-ui:generateDebugRFile UP-TO-DATE
+> Task :feature-ui:mergeDebugNativeLibs NO-SOURCE
+> Task :hilt-app:preDebugAndroidTestBuild SKIPPED
+> Task :hilt-app:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :feature-ui:copyDebugJniLibsProjectOnly UP-TO-DATE
+> Task :hilt-app:generateDebugAndroidTestResources UP-TO-DATE
+> Task :cart-api:compileJava NO-SOURCE
+> Task :hilt-app:processDebugAndroidTestNavigationResources UP-TO-DATE
+> Task :cart-api:classes UP-TO-DATE
+> Task :feature-ui:extractDeepLinksForAarDebug UP-TO-DATE
+> Task :cart-api:jar UP-TO-DATE
+> Task :cart-impl:compileKotlin UP-TO-DATE
+> Task :session-api:compileKotlin UP-TO-DATE
+> Task :cart-impl:compileJava NO-SOURCE
+> Task :cart-impl:classes UP-TO-DATE
+> Task :session-api:compileJava NO-SOURCE
+> Task :hilt-app:packageDebugAndroidTestResources UP-TO-DATE
+> Task :cart-impl:jar UP-TO-DATE
+> Task :session-api:classes UP-TO-DATE
+> Task :session-api:jar UP-TO-DATE
+> Task :legacy-bridge:compileKotlin UP-TO-DATE
+> Task :session-impl:compileKotlin UP-TO-DATE
+> Task :hilt-app:generateDebugAndroidTestGlobalSynthetics UP-TO-DATE
+> Task :legacy-bridge:compileJava NO-SOURCE
+> Task :legacy-bridge:classes UP-TO-DATE
+> Task :session-impl:compileJava NO-SOURCE
+> Task :session-impl:classes UP-TO-DATE
+> Task :hilt-app:parseDebugAndroidTestLocalResources UP-TO-DATE
+> Task :session-impl:jar UP-TO-DATE
+> Task :legacy-bridge:jar UP-TO-DATE
+> Task :hilt-app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :hilt-app:generateDebugAndroidTestRFile UP-TO-DATE
+> Task :hilt-app:checkDebugAndroidTestDuplicateClasses UP-TO-DATE
+> Task :hilt-app:desugarDebugAndroidTestFileDependencies UP-TO-DATE
+> Task :hilt-app:mergeExtDexDebug UP-TO-DATE
+> Task :hilt-app:mapDebugAndroidTestSourceSetPaths UP-TO-DATE
+> Task :hilt-app:mergeExtDexDebugAndroidTest UP-TO-DATE
+> Task :hilt-app:compileDebugAndroidTestNavigationResources UP-TO-DATE
+> Task :hilt-app:mergeDebugAndroidTestAssets UP-TO-DATE
+> Task :hilt-app:checkDebugAarMetadata UP-TO-DATE
+> Task :hilt-app:mergeDebugAssets UP-TO-DATE
+> Task :hilt-app:checkDebugAndroidTestAarMetadata UP-TO-DATE
+> Task :hilt-app:processDebugNavigationResources UP-TO-DATE
+> Task :hilt-app:mergeDebugAndroidTestResources UP-TO-DATE
+> Task :hilt-app:compressDebugAndroidTestAssets UP-TO-DATE
+> Task :hilt-app:mergeDebugResources UP-TO-DATE
+> Task :hilt-app:validateSigningDebugAndroidTest UP-TO-DATE
+> Task :hilt-app:mergeDebugAndroidTestJniLibFolders UP-TO-DATE
+> Task :hilt-app:compressDebugAssets UP-TO-DATE
+> Task :hilt-app:compileDebugNavigationResources UP-TO-DATE
+> Task :hilt-app:parseDebugLocalResources UP-TO-DATE
+> Task :hilt-app:writeDebugAndroidTestSigningConfigVersions UP-TO-DATE
+> Task :hilt-app:mergeDebugNativeLibs UP-TO-DATE
+> Task :hilt-app:mergeDebugAndroidTestManifest UP-TO-DATE
+> Task :hilt-app:stripDebugDebugSymbols UP-TO-DATE
+> Task :feature-ui:preDebugAndroidTestBuild UP-TO-DATE
+> Task :hilt-app:generateDebugRFile UP-TO-DATE
+> Task :hilt-app:processDebugAndroidTestManifest UP-TO-DATE
+> Task :feature-ui:preDebugUnitTestBuild UP-TO-DATE
+> Task :hilt-app:processDebugMainManifest UP-TO-DATE
+> Task :hilt-app:processDebugManifest UP-TO-DATE
+> Task :hilt-app:mergeDebugAndroidTestNativeLibs NO-SOURCE
+> Task :feature-ui:prepareLintJarForPublish UP-TO-DATE
+> Task :hilt-app:stripDebugAndroidTestDebugSymbols NO-SOURCE
+> Task :hilt-app:preDebugUnitTestBuild UP-TO-DATE
+> Task :hilt-app:processDebugManifestForPackage UP-TO-DATE
+> Task :feature-ui:prepareDebugArtProfile UP-TO-DATE
+> Task :lease-lab:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :feature-ui:writeDebugLintModelMetadata UP-TO-DATE
+> Task :lease-lab:processTestResources NO-SOURCE
+> Task :lease-lab:processResources NO-SOURCE
+> Task :feature-ui:extractProguardFiles UP-TO-DATE
+> Task :hilt-app:extractProguardFiles UP-TO-DATE
+> Task :feature-ui:checkDebugAarMetadata UP-TO-DATE
+> Task :feature-ui:compileDebugKotlin UP-TO-DATE
+> Task :hilt-app:javaPreCompileDebugAndroidTest FROM-CACHE
+> Task :feature-ui:processDebugJavaRes UP-TO-DATE
+> Task :feature-ui:extractDebugAnnotations UP-TO-DATE
+> Task :feature-ui:compileDebugJavaWithJavac UP-TO-DATE
+> Task :feature-ui:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :hilt-app:processDebugResources UP-TO-DATE
+> Task :hilt-app:processDebugAndroidTestResources UP-TO-DATE
+> Task :feature-ui:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :feature-ui:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :feature-ui:mergeDebugJavaResource UP-TO-DATE
+> Task :feature-ui:mergeDebugGeneratedProguardFiles UP-TO-DATE
+> Task :hilt-app:mergeLibDexDebugAndroidTest UP-TO-DATE
+> Task :hilt-app:mergeLibDexDebug UP-TO-DATE
+> Task :feature-ui:createFullJarDebug UP-TO-DATE
+> Task :feature-ui:syncDebugLibJars UP-TO-DATE
+> Task :feature-ui:mergeDebugConsumerProguardFiles UP-TO-DATE
+> Task :feature-ui:bundleDebugLocalLintAar UP-TO-DATE
+> Task :lease-lab:compileKotlin UP-TO-DATE
+> Task :lease-lab:compileJava NO-SOURCE
+> Task :lease-lab:classes UP-TO-DATE
+> Task :lease-lab:jar UP-TO-DATE
+> Task :feature-ui:lintAnalyzeDebug UP-TO-DATE
+> Task :feature-ui:lintAnalyzeDebugUnitTest UP-TO-DATE
+> Task :feature-ui:generateDebugLintModel UP-TO-DATE
+> Task :feature-ui:generateDebugUnitTestLintModel UP-TO-DATE
+> Task :feature-ui:generateDebugAndroidTestLintModel UP-TO-DATE
+> Task :feature-ui:lintAnalyzeDebugAndroidTest UP-TO-DATE
+> Task :lease-lab:compileTestKotlin UP-TO-DATE
+> Task :lease-lab:compileTestJava NO-SOURCE
+> Task :lease-lab:testClasses UP-TO-DATE
+
+> Task :lease-lab:exerciseTest FAILED
+
+LeasePlanExerciseTest > revokedBorrowerCannotCloseReplacementOpening() FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:58
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "second borrower shares" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "one release preserves other borrower" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "revoke closes once despite two borrowers" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "empty scope revocation emits no close" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "release changes only owning scope" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > returnsExactNextStateAndEffects(String, LeaseState, LeaseEvent, LeaseTransition) > "revocation leaves other scope live" FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:22
+
+LeasePlanExerciseTest > doesNotMutateInputsOrNormalizeOpaqueIds() FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:99
+
+LeasePlanExerciseTest > sharingIgnoresTheUnusedClientCandidate() FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:88
+
+LeasePlanExerciseTest > twoBorrowersCloseOnlyAfterBothRelease() FAILED
+    org.opentest4j.AssertionFailedError at LeasePlanTest.kt:36
+
+19 tests completed, 10 failed
+
+> Task :hilt-app:kspDebugKotlin
+> Task :hilt-app:compileDebugKotlin
+> Task :hilt-app:processDebugJavaRes UP-TO-DATE
+> Task :hilt-app:mergeDebugJavaResource UP-TO-DATE
+> Task :hilt-app:compileDebugJavaWithJavac
+> Task :hilt-app:hiltCollectClassesDebug
+> Task :hilt-app:hiltAggregateDepsDebug
+> Task :hilt-app:generateDebugLintReportModel
+> Task :hilt-app:hiltJavaCompileDebug
+> Task :hilt-app:bundleDebugClassesToCompileJar
+> Task :hilt-app:generateDebugUnitTestLintModel
+> Task :hilt-app:transformDebugClassesWithAsm
+> Task :hilt-app:generateDebugAndroidTestLintModel
+> Task :hilt-app:kspDebugAndroidTestKotlin
+> Task :hilt-app:dexBuilderDebug
+> Task :hilt-app:mergeProjectDexDebug
+> Task :hilt-app:packageDebug
+> Task :hilt-app:createDebugApkListingFileRedirect UP-TO-DATE
+> Task :hilt-app:compileDebugAndroidTestKotlin
+> Task :hilt-app:processDebugAndroidTestJavaRes UP-TO-DATE
+> Task :hilt-app:compileDebugAndroidTestJavaWithJavac
+> Task :hilt-app:hiltCollectClassesDebugAndroidTest
+> Task :hilt-app:mergeDebugAndroidTestJavaResource UP-TO-DATE
+> Task :hilt-app:hiltAggregateDepsDebugAndroidTest
+> Task :hilt-app:hiltJavaCompileDebugAndroidTest NO-SOURCE
+> Task :hilt-app:transformDebugAndroidTestClassesWithAsm
+> Task :hilt-app:dexBuilderDebugAndroidTest
+> Task :hilt-app:mergeProjectDexDebugAndroidTest
+> Task :hilt-app:packageDebugAndroidTest
+> Task :hilt-app:createDebugAndroidTestApkListingFileRedirect UP-TO-DATE
+> Task :hilt-app:lintAnalyzeDebugUnitTest
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by com.google.protobuf.UnsafeUtil$MemoryAccessor (file:/Users/rkpattanaik/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.5/5ae5c9ec39930ae9b5a61b32b93288818ec05ec1/protobuf-java-3.25.5.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.protobuf.UnsafeUtil$MemoryAccessor
+WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+
+> Task :hilt-app:connectedDebugAndroidTest
+Running tests on devices: StaffAndroid_API_36(AVD) - 16
+
+> Task :hilt-app:lintAnalyzeDebugAndroidTest
+> Task :hilt-app:lintAnalyzeDebug
+
+> Task :hilt-app:lintReportDebug
+Wrote HTML report to file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/dependency-ownership/hilt-app/build/reports/lint-results-debug.html
+Wrote SARIF report to file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/dependency-ownership/hilt-app/build/reports/lint-results-debug.sarif
+
+> Task :hilt-app:lintDebug
+
+[Incubating] Problems report is available at: file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/dependency-ownership/build/reports/problems/problems-report.html
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':lease-lab:exerciseTest'.
+> There were failing tests. See the report at: file:///Users/rkpattanaik/Projects/TheStaffAndroidEngineer/projects/dependency-ownership/lease-lab/build/reports/tests/exerciseTest/index.html
+
+* Try:
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.8.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 16s
+139 actionable tasks: 28 executed, 1 from cache, 110 up-to-date
+Configuration cache entry stored.
